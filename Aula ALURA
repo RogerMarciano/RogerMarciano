@@ -1,0 +1,2 @@
+git config --local user.name Roger
+git config --local user.email roger.kim.jeeh15@gmail.com
